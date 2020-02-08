@@ -1,1 +1,1 @@
-Hallo ich bin Calvin
+Hallo, dies ist die Bewerbungsseite von Calvin Dell'Oro.
