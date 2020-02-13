@@ -5,7 +5,7 @@ namespace RubberBand {
     
     // Initial position
     let position = 0;
-    let gravity = 4;
+    let gravity = 5;
     let gravity2 = 5;
     import Vector2D = Vector.Vector2D;
 
