@@ -1,4 +1,4 @@
-# Lebenslauf Calvin Dell'Oro  
+# Daten und Lebenslauf
 <img src="Calvin.jpg" align="right" width="25%"/>  
 
 ## Adresse  
