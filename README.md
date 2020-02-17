@@ -2,17 +2,17 @@
 Ich bewerbe mich bei Black Forest Games um eine Stelle für mein Praxis-Semester, da ich auf Grund ihrer Produkte und Ihres Auftretens ein hohes Potential der Erfüllung einer, mehrerer oder aller unter [Erfahrung](#erfahrung) genannter Interessen bei Ihnen sehe. Bei der Betrachtung der in Ihren Titeln verwendeten Modellen, Grafiken, Sounds und Spielmechaniken erfahre ich Inspiration und betrachte es als wahrscheinlich, bei der Zusammenarbeit mit anzutreffenden Beteiligten Ihres Unternehmens kreativ und mit großem Enthusiasmus bei der Planung und Entwicklung von Game-Inhalten mitwirken zu können, sowie auch meine persönlichen Fähigkeiten zu verbessern. Nicht abstreiten möchte ich dabei auch den Faktor der Freude und des Spaßes, den ich meiner und Ihrerseits in Aussicht stelle.  
 
 # Anhang
-- [Lebenslauf](Lebenslauf.md)
-- [Empfehlungsschreiben](EmpfehlungCalvinDellOro.pdf)
-- Coding-Beispiele
-  - [Fraktal](Code/Fraktal/start.html)  
-  - [FraktalAnimation](Code/FraktalAnimation/start.html)  
-  - [Cardioids](Code/Cardioids/start.html)  
-  - [RubberBand](Code/RubberBand/start.html)
-- Komposition
-  - []()
-- Grafik
-  - []()
+[Lebenslauf](Lebenslauf.md)  
+[Empfehlungsschreiben](EmpfehlungCalvinDellOro.pdf)  
+Coding-Beispiele  
+  [Fraktal](Code/Fraktal/start.html)  
+  [FraktalAnimation](Code/FraktalAnimation/start.html)  
+  [Cardioids](Code/Cardioids/start.html)  
+  [RubberBand](Code/RubberBand/start.html)
+Komposition
+  []()
+Grafik
+  []()
 
 # Erfahrung
 Seit mein Vater, ein Professor für Computerspiele, mich bereits in sehr frühem Alter von 3 Jahren vorsichtig an dieses Medium herangeführt hat, interessierte ich mich nicht nur für das Spielen, sondern auch ähnlich stark für die Entwicklung von Games. Ich zeichnete zusätzliche Level für Super Mario oder entwarf neue Spiele, das könnte man als meine ersten Schritte im Gamedesign bezeichnen. Später verbrachte ich viel Zeit mit der Kombination der elementaren Redstone-Elemente von Minecraft um logische Schaltungen, Rechensysteme, Binärzähler und Segmentanzeigen zu konstruieren. Auch bereitete mir die Modifikation des Spiels durch selbst gestaltete Resourcepacks viel Freude.  
