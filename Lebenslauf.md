@@ -13,8 +13,10 @@ Familienstand: ledig
 Tätigkeit: Studium der Medieninformatik, Hochschule Furtwangen  
 
 ## Berufspraxis
-7/16 - 7/19 Zusteller Südkurier Hochschwarzwald, PSG Baden-Württemberg, Titisee-Neustadt Titisee  
-7/19 – 8/19 Archivierung (Excel, Auswertungsautomatismen, Scannen), Novartis AG, Basel  
+7/16 - 7/19 Zusteller Südkurier Hochschwarzwald, PSG Baden-Württemberg  
+Titisee-Neustadt  
+7/19 – 8/19 Archivierung (Excel, Auswertungsautomatismen, Scannen)
+Novartis AG, Basel  
 
 ## Ausbildung
 8/06 – 7/09 Peter-Härtling-Grundschule | Mainz-Finthen  
@@ -23,11 +25,11 @@ Tätigkeit: Studium der Medieninformatik, Hochschule Furtwangen
 8/16 – 6/19 Technisches Gymnasium | Titisee-Neustadt  
 
 ## Zusätzliche Kenntnisse
-### Sprachkenntnisse  
+**Sprachkenntnisse**  
 Englisch: Gute Kenntnisse  
 Latein: Grundkenntnisse  
 
-### EDV-Kenntnisse  
+**EDV-Kenntnisse**  
 Eclipse: Gute Kenntnisse  
 Visual Studio Code: Gute Kenntnisse  
 Java, Javascript, Typescript, Batch: Gute Kenntnisse  
