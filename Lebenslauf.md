@@ -1,5 +1,6 @@
 # Lebenslauf Calvin Dell'Oro
 ## Adresse
+<img src="Calvin.jpg" align="right"/>
 Erlenbrucker Straße 28  
 79856 Hinterzarten  
 E-Mail: calvindelloro@mail.de  
