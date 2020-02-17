@@ -1,5 +1,6 @@
-# Lebenslauf Calvin Dell'Oro
-<img src="Calvin.jpg" align="right" width="25%"/>
+# Lebenslauf Calvin Dell'Oro  
+<img src="Calvin.jpg" align="right" width="25%"/>  
+
 ## Adresse
 Erlenbrucker Straße 28  
 79856 Hinterzarten  
