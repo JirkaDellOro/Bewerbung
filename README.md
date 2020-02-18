@@ -9,7 +9,8 @@ Das Praxissemester soll mindestens 95 Arbeitstage umfassen, die zwischen einschl
 [Empfehlungsschreiben](EmpfehlungCalvinDellOro.pdf)  
 Arbeitszeugnis Novartis  
 Urkunde des Gymnasiums  
-Abiturzeugnis  
+[Abiturzeugnis](CCF18022020_0001.jpg)  
+[Regelung zum praktischen Studiensemester](CCF18022020_0000.jpg)    
 
 ## Coding-Beispiele  
 [Fraktal](Code/Fraktal/start.html)  
