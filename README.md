@@ -7,6 +7,9 @@ Das Praxissemester soll mindestens 95 Arbeitstage umfassen, die zwischen einschl
 ## Dokumente
 [Daten und Lebenslauf](Lebenslauf.md)  
 [Empfehlungsschreiben](EmpfehlungCalvinDellOro.pdf)  
+Arbeitszeugnis Novartis  
+Urkunde des Gymnasiums  
+Abiturzeugnis  
 
 ## Coding-Beispiele  
 [Fraktal](Code/Fraktal/start.html)  
