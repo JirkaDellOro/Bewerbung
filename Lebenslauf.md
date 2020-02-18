@@ -38,13 +38,14 @@ Latein: Grundkenntnisse
 Eclipse: Gute Kenntnisse  
 Visual Studio Code: Gute Kenntnisse  
 Java, Javascript, Typescript, Batch: Gute Kenntnisse  
-Python, C: Grundkenntnisse  
+Python, C: Grundkenntnisse
+Unity, Blender: Grundkenntnisse  
 Excel: Gute Kenntnisse  
 Gimp: Gute Kenntnisse  
-FLStudio: Sehr gute Kenntnisse  
+FLStudio: Gute Kenntnisse  
 
 ## Hobbys
 Programmieren  
 Chemie, Physik  
-Schlagzeug, Klavier, Musikproduktion  
+Schlagzeug (Früher: Jugendkapelle & Trachtenkapelle Hinterzarten, Jetzt: Jazz Trio), Klavier, Musikproduktion  
 Schwimmen, Turmspringen, Turnen, Aikido  
