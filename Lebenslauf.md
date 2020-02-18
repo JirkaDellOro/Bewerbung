@@ -26,6 +26,9 @@ Novartis AG, Basel
 8/10 – 7/16 Gymnasium Birklehof, Hinterzarten  
 8/16 – 6/19 Technisches Gymnasium, Titisee-Neustadt  
 
+## Bildungsabschlüsse  
+Allgemeine Hochschulreife, Durchschnittsnote 2,3  
+
 ## Zusätzliche Kenntnisse
 **Sprachkenntnisse**  
 Englisch: Gute Kenntnisse  
